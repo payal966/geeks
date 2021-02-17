@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+  
+  <classes>
+  <classes name ="com.GeeksAndGeeks.Userhandles.Firstuser.java" 
+  <classes name ="com.GeeksAndGeeks.Userhandles.Firstuser.java"
+  <classes name ="com.GeeksAndGeeks.Userhandles.Firstuser.java"
+  <classes name ="com.GeeksAndGeeks.Userhandles.Firstuser.java"
+  </classes>
+  
+  <classes>
+  <classes name ="GeeksAndGeeks.Credentials.Firstcredential.java">
+   <classes name ="GeeksAndGeeks.Credentials.Fourthcredential.java">
+    <classes name ="GeeksAndGeeks.Credentials.Secondcredential.java">
+     <classes name ="GeeksAndGeeks.Credentials.Thirdcredential.java">
+  </classes>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
